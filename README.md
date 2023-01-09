@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey I am Noah<br>
-I am studying Mediainformatics and Informationscience<br>I am currently learning JavaScript and Dart<br><br><br>
+I am studying Mediainformatics and Informationscience<br>I am currently learning JavaScript<br><br><br>
 
 
 ## 🌐 Socials:
