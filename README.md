@@ -2,6 +2,8 @@
 Hey I am Noah<br>
 I am studying Mediainformatics and InformationScience<br>
 
+Currently I am learning Java Script and the Fast AI libary
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-mei%C3%9Fner-7391a2245/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NoahMeissner_) 
