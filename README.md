@@ -1,8 +1,7 @@
-# 💫 About Me:
+# Noah Meissner:
+Student for Media Informatics and Information Science
 Hey I am Noah<br>
 I am studying Mediainformatics and InformationScience<br>
-
-Currently I am learning Java Script and the Fast AI libary
 
 
 ## 🌐 Socials:
