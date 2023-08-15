@@ -13,6 +13,7 @@ As I traverse the academic corridors, I remain committed to delving deeper into 
 
 Feel free to explore my repositories, engage in discussions, and collaborate on ventures that resonate with our shared dedication to advancing technology. 🚀
 
+Languages: 🇩🇪/🇬🇧/🇸🇪/🇪🇸
 
 <h3 align="left"> 📱 Connect with me:</h3>
 
