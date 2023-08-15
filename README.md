@@ -26,8 +26,13 @@ Feel free to explore my repositories, engage in discussions, and collaborate on 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NoahMeissner&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoahMeissner&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NoahMeissner&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noahmeissner&show_icons=true&locale=en&layout=compact" alt="noahmeissner" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noahmeissner&show_icons=true&locale=en" alt="noahmeissner" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noahmeissner&" alt="noahmeissner" /></p>
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NoahMeissner&icon=0&color=1)](https://visitcount.itsvg.in)
