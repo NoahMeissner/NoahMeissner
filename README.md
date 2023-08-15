@@ -1,4 +1,5 @@
-# Noah Maximillian Meissner:
+# 🙋🏻 Noah Maximillian Meissner:
+**Student for Media Informatics 💻 and Information Science 📊📈 at the University of Regensburg**
 
 👋 Greetings and welcome to my Github profile,
 
@@ -11,7 +12,7 @@ As I traverse the academic corridors, I remain committed to delving deeper into 
 Feel free to explore my repositories, engage in discussions, and collaborate on ventures that resonate with our shared dedication to advancing technology. 🚀
 
 
-## 🌐 Socials:
+## 📱 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-mei%C3%9Fner-7391a2245/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NoahMeissner_) 
 
 # 💻 Tech Stack:
