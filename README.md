@@ -5,7 +5,7 @@
 
 👋 Greetings and welcome to my Github profile,
 
-I am Noah, a dedicated 21-year-old student pursuing a degree in Media Informatics and Information Science at the University of Regensburg. 📚🎓 My academic journey is anchored in a profound interest in artificial intelligence and its implications across diverse domains.
+I am Noah, a dedicated 22-year-old student pursuing a degree in Media Informatics and Information Science at the University of Regensburg. 📚🎓 My academic journey is anchored in a profound interest in artificial intelligence and its implications across diverse domains.
 
 Within the tapestry of technology, I have found my passion in comprehending the intricacies of AI. 🤖💡 It is my belief that the symbiotic relationship between AI and software development holds the potential to elevate projects to unprecedented heights of innovation and efficiency.
 
