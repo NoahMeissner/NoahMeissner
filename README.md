@@ -1,4 +1,8 @@
 # Noah Maximilian Meissner
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fhejazizo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/NoahMeissner/)
+[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/NoahMeissner)
+
 
 👋 Greetings and welcome to my Github profile,
 
@@ -18,27 +22,3 @@ Feel free to explore my repositories, engage in discussions, and collaborate on 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noahmeissner&show_icons=true&locale=en&layout=compact" alt="noahmeissner" /></p>
 
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
