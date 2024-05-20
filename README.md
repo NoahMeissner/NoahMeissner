@@ -32,7 +32,6 @@ Feel free to explore my repositories, engage in discussions, and collaborate on 
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="noahmeissner" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="noahmeissner" />
 </div>
 
 
