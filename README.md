@@ -27,6 +27,6 @@
 **Repo:** https://github.com/NoahMeissner/Python-Image-Processor
 
 ### Tetris 
-**Keywords:** Webgame • gameboy 
-**Tech:** React • TypeScript 
+**Keywords:** Webgame • gameboy   
+**Tech:** React • TypeScript   
 **Repo:** https://github.com/NoahMeissner/Tetr
