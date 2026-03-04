@@ -6,13 +6,13 @@
 
 ## Publications
 ### Efficient Indoor Mapping with HoloLens 2  
-**Keywords:** Holo Lens 2 • Floor Planning • Indoor Mapping • Computer Vision <br>  
-**Tech:** Python • Jupyter Notebook <br>  
+**Keywords:** Holo Lens 2 • Floor Planning • Indoor Mapping • Computer Vision  
+**Tech:** Python • Jupyter Notebook  
 **Repo:** https://github.com/NoahMeissner/Indoor-Mapping-with-Holo-Lens-2
 
 ### Beyond Labels: A Circumplex-Based Framework for Emotion on X (formerly Twitter)
-**Keywords:** Emotion Detection • Dimnensional Modelling • Circumplex Model of Affect
-**Tech:** Python • PyTorch • BERT  <br>  
+**Keywords:** Emotion Detection • Dimnensional Modelling • Circumplex Model of Affect  
+**Tech:** Python • PyTorch • BERT  
 **Repo:** https://github.com/NoahMeissner/Emotion-Detection
 
 ## Software Projects
