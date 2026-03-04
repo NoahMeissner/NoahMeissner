@@ -1,6 +1,6 @@
 ## Projects
 ### Food Multi Agent Recommender System (FoMaRec)
-**Keywords:** Multi Agent Systems • Food Recommendation
+**Keywords:** Multi Agent Systems • Food Recommendation  
 **Tech:** Python • Jupyter Notebook • Docker • LangChain • LangGraph
 **Repo:** https://github.com/NoahMeissner/FoMaRec
 
