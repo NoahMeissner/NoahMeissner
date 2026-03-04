@@ -16,17 +16,17 @@
 **Repo:** https://github.com/NoahMeissner/Emotion-Detection
 
 ## Software Projects
-### Vector Image Drawing App  
+### Vector Image Drawing App
 **Keywords:** computer graphics • raster drawing • Bézier curves  
 **Tech:** Python • Tkinter • CV2  
 **Repo:** https://github.com/NoahMeissner/Vector-Image-Drawing-App
 
-### Image Processor  
+### Image Processor
 **Keywords:** image processing • image filters • kernels  
 **Tech:** Python • CV2  
 **Repo:** https://github.com/NoahMeissner/Python-Image-Processor
 
-### Tetris 
+### Tetris
 **Keywords:** Webgame • gameboy   
 **Tech:** React • TypeScript   
 **Repo:** https://github.com/NoahMeissner/Tetr
